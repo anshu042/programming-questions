@@ -1,3 +1,4 @@
+#number is armstrong number or not
 n = int(input("Enter the number: "))
 sum = 0
 order = len(str(n))
